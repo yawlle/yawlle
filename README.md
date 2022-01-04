@@ -1,4 +1,4 @@
-<h3>Hi! I'm Isabella! I am a Computer Engineering student at UFES. I like to study programming and learn new things! 😄 I am currently learning Front-End with JS and Laravel, Mobile development with React and Smart Contracts for Blockchain with Solidity. </h3>
+<h3>Hi! I'm Isabella! I am a Computer Engineering student at UFES. I like to study programming and learn new things! 😄 I am currently learning Front-End with JS and Laravel, Mobile Development with React and Smart Contracts for Blockchain with Solidity. </h3>
 
 #
 
