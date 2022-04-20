@@ -1,4 +1,4 @@
-<h3>Hi! I'm Isabella! I am a Computer Engineering student at UFES. I like to study programming and learn new things! 😄 I am currently learning Front-End/Back-End with JS and Laravel, Mobile Development with React and Smart Contracts for Blockchain with Solidity. </h3>
+<h3>Hi! I'm Isabella! I am a Computer Engineering student at UFES. I like to study programming and learn new things! 😄 I am currently learning Front-End/Back-End with JS and Laravel, Mobile Development with React Native and Smart Contracts for Blockchain with Solidity. </h3>
 
 #
 
@@ -16,7 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2019/01/2000px-React-icon.svg_.png?fit=2000%2C1413&ssl=1">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://seekicon.com/free-icon-download/kotlin_2.svg">
