@@ -1,4 +1,4 @@
-<h3>Hi! I'm Isabella! I am a Computer Engineering student at UFES. I like to study programming and learn new things! 😄 I am currently learning Front-End/Back-End with JS and Laravel, Mobile Development with Kotlin and React Native and Smart Contracts for Blockchain with Solidity. </h3>
+<h3>Hi! I'm Isabella! I am a Computer Engineering student at UFES. I like to study programming and learn new things! 😄 I am currently working on Mobile Development with Kotlin, especially with Jetpack Compose, MVVM and notions of clean architecture. I also work with Front-End/Back-End with JS and Laravel. </h3>
 
 #
 
