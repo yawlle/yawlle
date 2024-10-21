@@ -1,4 +1,4 @@
-## hi, i'm Isabella, also known as yawlle
+## hi, i'm Isabella, also known as yawlle 😺
 
 mobile development  
 android defender  
